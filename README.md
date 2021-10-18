@@ -12,7 +12,7 @@ All code is written in Python. In order to run the code, the following packages 
 
 We suggest you to install from Anaconda, you can run
 
-conda create --name ParticleFilterTutorial python=3.7 scipy=1.0.0 numpy=1.14.0 matplotlib= 
+conda create --name ParticleFilterTutorial python=3.7 scipy=1.7.1 numpy=1.21.2 matplotlib=3.4.2 
 
 
 conda activate ParticleFilterTutorial
